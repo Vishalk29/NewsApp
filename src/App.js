@@ -7,6 +7,7 @@ import News from './Component/News';
 
 export default class App extends Component {
   render() {
+    // document.body.style.background = "gray";
     return (
       <div>
         <NavBar />
